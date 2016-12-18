@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewPro</string>
+    <string name="main_activity">HandlerActivity</string>
+    <string name="second_activity">AsyncTask</string>
+
+    <string name="info">Подробно</string>
+    <string name="start">Start</string>
+    <string name="format_short">Время</string>
+    <string name="format_long">Дата время</string>
+    <string name="get_time">GO</string>
+    <string name="loaders">Loaders</string>
+</resources>
